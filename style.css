@@ -1,0 +1,99 @@
+@media only screen and (max-width: 375px) {
+    .container {
+      max-width: 375px;
+      margin: 0 auto;
+      padding: 10px;
+    }
+  }
+
+  .Image {
+    margin: auto;
+    width: 400px; /* set a width for the container */
+  }
+  
+  .Image img {
+    max-width: 100%; /* make the image responsive */
+    height: auto; /* maintain the image's aspect ratio */
+  }
+
+  .section1{
+    text-align: center;
+    font-family: "Young Serif", serif;
+  }
+  .section2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Young Serif", serif;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .section3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Young Serif", serif;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .section3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Young Serif", serif;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .section3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Young Serif", serif;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .section4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Young Serif", serif;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .section5 {
+    display: flex;
+    align-items: center; /* center horizontally */
+    justify-content: center; /* center vertically */
+    flex-direction: column;
+    font-family: "Young Serif", serif;
+    margin: auto; /* center both horizontally and vertically */
+  }
+  .sectionfooter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Young Serif", serif;
+  }
+ 
+  table {
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  .section3 h2, .section5 h3, .section4 h4 {
+    color: #964B00; /* brown color */
+  }
+  
+  .section3 li, .section5 li, .section4 td {
+    color: #964B00; /* brown color */
+  }
